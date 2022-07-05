@@ -11,6 +11,7 @@ public class TA04_1 {
 		System.out.println("Multiplicación: "+numA+"*"+numB+" = "+(numA*numB));
 		System.out.println("División: "+numA+"/"+numB+" = "+(numA/numB));
 		System.out.println("Módulo: "+numA+"%"+numB+" = "+(numA%numB));
+		
 	}
 
 }
