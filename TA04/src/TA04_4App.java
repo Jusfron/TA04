@@ -1,5 +1,5 @@
 
-public class TA04_4 {
+public class TA04_4App {
 
 	public static void main(String[] args) {
 		int n;

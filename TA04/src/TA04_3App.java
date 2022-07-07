@@ -1,5 +1,5 @@
 
-public class TA04_3 {
+public class TA04_3App {
 
 	public static void main(String[] args) {
 		int x, y;
